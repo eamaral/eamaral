@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá! Eu sou o Erik 👋
 
-<!--
-**eamaral/eamaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **Desenvolvedor de Software em Testes**, **Especialista em Qualidade** e entusiasta de automação de testes com mais de 17 anos de experiência. Atualmente, estou focado em automação de testes para backend e frontend, usando tecnologias como **Playwright**, **Cypress**, e **Maestro**.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 💻 Atuo com **automação de testes** e sou especialista em melhorar processos de qualidade.
+- 🔍 Sempre em busca de novas tecnologias e frameworks para aperfeiçoar minhas habilidades.
+- 🎯 Atualmente focado em: **Playwright**, **K6**, **Cypress**, e **Kafka**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens:**  
+  ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)  
+- **Frameworks & Ferramentas:**  
+  ![Playwright](https://img.shields.io/badge/-Playwright-333?style=flat&logo=playwright) ![Cypress](https://img.shields.io/badge/-Cypress-333?style=flat&logo=cypress) ![Maestro](https://img.shields.io/badge/-Maestro-333?style=flat&logo=android)  
+- **Infraestrutura:**  
+  ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes) ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
+
+---
+
+### ⚡ GitHub Stats
+
+![Erik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eamaral&show_icons=true&theme=radical)
+
+---
+
+### 💬 Contato
+
+- E-mail: erik.fernandes87@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+
+---
+
+### 🎯 "A automação de testes não é apenas sobre encontrar bugs, mas sobre construir confiança no software." 🚀
