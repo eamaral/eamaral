@@ -1,6 +1,6 @@
 # Olá! Eu sou o Erik 👋
 
-Sou um **Especialista em Qualidade** e entusiasta de desenvolvimento de software e automação de testes com mais de 17 anos de experiência. Atualmente, estou focado em automação de testes para backend, frontend e mobile usando tecnologias como **Playwright**, **Cypress**, e **Maestro**.
+Sou um **Especialista em Qualidade** e entusiasta de desenvolvimento de software e automação de testes com mais de 15 anos de experiência. Atualmente, estou focado em automação de testes para backend, frontend e mobile usando tecnologias como **Playwright**, **Cypress**, e **Maestro**.
 
 ### 🚀 Sobre mim
 - 💻 Atuo com **automação de testes** e sou especialista em melhorar processos de qualidade.
@@ -32,4 +32,4 @@ Sou um **Especialista em Qualidade** e entusiasta de desenvolvimento de software
 
 ---
 
-### 🎯 "A automação de testes não é apenas sobre encontrar bugs, mas sobre construir confiança no software." 🚀
+### 🎯 "Qualidade é vantagem competitiva e é inegociável" 🚀
