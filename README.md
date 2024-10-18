@@ -1,20 +1,20 @@
-# Oi! Eu sou o Erik 👋
+# Hi! I'm Erik 👋
 
-Sou um **Especialista em Qualidade** e entusiasta de desenvolvimento de software e automação de testes com 17 anos de experiência. Atualmente, estou focado em automação de testes para backend, frontend e mobile usando tecnologias como **Playwright**, **Cypress**, **Maestro**, e testes de carga com **K6**.
+I am a **Quality Specialist** and a software development and test automation enthusiast with 17 years of experience. Currently, I'm focused on test automation for backend, frontend, and mobile using technologies like **Playwright**, **Cypress**, **Maestro**, and load testing with **K6**.
 
-### 🚀 Sobre mim
-- 💻 Atuo com **automação de testes** e sou especialista em melhorar processos de qualidade.
-- 🔍 Sempre em busca de novas tecnologias e frameworks para aperfeiçoar minhas habilidades.
-- 🎯 Atualmente focado em: **Playwright**, **K6**, **Cypress**, e **Kafka**.
+### 🚀 About Me
+- 💻 I specialize in **test automation** and improving quality processes.
+- 🔍 Always seeking new technologies and frameworks to enhance my skills.
+- 🎯 Currently focused on: **Playwright**, **K6**, **Cypress**, and **Kafka**.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-- **Linguagens:**  
+### 🛠️ Technologies & Tools
+- **Languages:**  
   ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)  
-- **Frameworks & Ferramentas:**  
+- **Frameworks & Tools:**  
   ![Playwright](https://img.shields.io/badge/-Playwright-333?style=flat&logo=playwright) ![Cypress](https://img.shields.io/badge/-Cypress-333?style=flat&logo=cypress) ![Maestro](https://img.shields.io/badge/-Maestro-333?style=flat&logo=android) ![K6](https://img.shields.io/badge/-K6-333?style=flat&logo=k6)  
-- **Infraestrutura:**  
+- **Infrastructure:**  
   ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes) ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
 
 ---
@@ -25,11 +25,11 @@ Sou um **Especialista em Qualidade** e entusiasta de desenvolvimento de software
 
 ---
 
-### 💬 Contato
+### 💬 Contact
 
-- E-mail: erik.fernandes87@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+- Email: erik.fernandes87@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/your-profile/)
 
 ---
 
-### 🎯 "Qualidade é vantagem competitiva e é inegociável" 🚀
+### 🎯 "Quality is a competitive advantage and non-negotiable" 🚀
