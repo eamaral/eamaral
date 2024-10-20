@@ -1,6 +1,6 @@
 # Hi! I'm Erik 👋
 
-I am a **Quality Specialist** and a software development and test automation enthusiast with 17 years of experience. Currently, I'm focused on test automation for backend, frontend, and mobile using technologies like **Playwright**, **Cypress**, **Maestro**, and load testing with **K6**.
+I am a Quality Specialist, passionate about software development and test automation, with 17 years of experience. Currently, I’m focusing on test automation for backend, frontend, and mobile using technologies like Playwright, Cypress, Maestro, and load testing with K6.
 
 ### 🚀 About Me
 - 💻 I specialize in **test automation** and improving quality processes.
