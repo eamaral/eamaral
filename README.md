@@ -16,13 +16,13 @@ I’m a software engineer with a strong focus on quality, automation, and scalab
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript) ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
 
 - **Backend & Dev Tools**  
-  ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express) ![Jest](https://img.shields.io/badge/-Jest-333?style=flat&logo=jest) ![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat&logo=terraform)  
+  ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express) ![Jest](https://img.shields.io/badge/-Jest-333?style=flat&logo=jest) 
 
 - **Testing & QA**  
   ![Playwright](https://img.shields.io/badge/-Playwright-333?style=flat&logo=playwright) ![Cypress](https://img.shields.io/badge/-Cypress-333?style=flat&logo=cypress) ![K6](https://img.shields.io/badge/-K6-333?style=flat&logo=k6) ![Maestro](https://img.shields.io/badge/-Maestro-333?style=flat&logo=android)  
 
 - **Cloud & Infrastructure**  
-  ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)  
+  ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws) ![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat&logo=terraform) ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)  
 
 ---
 
