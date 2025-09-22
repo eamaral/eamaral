@@ -1,6 +1,6 @@
 # Hi! I'm Erik 👋
 
-**Principal Quality Engineer** — **Solutions Architecture • DevOps/Cloud • CI/CD • Testing at scale**
+**Principal Quality Engineer** • **Solutions Architecture • DevOps/Cloud • CI/CD • Testing at scale**
 
 I design and ship reliable systems and quality platforms end-to-end: Node.js/TypeScript services on AWS, IaC with Terraform, test automation (UI/API/contract), performance with k6, and observability with Prometheus/Grafana.
 
