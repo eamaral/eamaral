@@ -49,15 +49,6 @@ I design and ship reliable systems and quality platforms end-to-end: Node.js/Typ
 
 ---
 
-### 🧭 Featured Projects
-> *Adjust org/user if needed on the cards below.*
-
-[![video-auth-service](https://github-readme-stats.vercel.app/api/pin/?username=Fiap-pos-tech-2024&repo=video-auth-service)](https://github.com/Fiap-pos-tech-2024/video-auth-service)
-[![contract-test-playwright-boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=eamaral&repo=contract-test-playwright-boilerplate)](https://github.com/eamaral/contract-test-playwright-boilerplate)
-[![load-test-k6-operator-boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=eamaral&repo=load-test-k6-operator-boilerplate)](https://github.com/eamaral/load-test-k6-operator-boilerplate)
-
----
-
 ### 📈 GitHub Stats
 ![Erik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eamaral&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eamaral&layout=compact)
@@ -66,7 +57,7 @@ I design and ship reliable systems and quality platforms end-to-end: Node.js/Typ
 
 ### 📬 Contact
 - Email: **erik.fernandes87@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/SEU-HANDLE** <!-- substitua pelo seu handle -->
+- LinkedIn: **www.linkedin.com/in/erik-fernandes-amaral-b9099a2a4** 
 
 ---
 
